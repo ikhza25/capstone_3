@@ -19,7 +19,7 @@ The primary challenge is the unpredictability of cancellations, which hampers ef
 
 To get this project, you can clone it by running the following code:
 
-    git@github.com:ilhamtaufieq17/Portugal-Hotel-Cancel-Prediction.git
+    https://github.com/ikhza25/capstone_3.git
 
 
 ## Contribute
